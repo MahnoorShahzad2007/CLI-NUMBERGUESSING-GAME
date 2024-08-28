@@ -1,0 +1,21 @@
+{
+  "name": "code_with_noor_cli_number_guessing_game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "bin": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "code_with_noor_cli_number_guessing_game": "^1.0.0",
+    "code_with_noor_simple_calculator": "^1.0.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
